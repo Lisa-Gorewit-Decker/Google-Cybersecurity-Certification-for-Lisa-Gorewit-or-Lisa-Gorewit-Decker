@@ -29,7 +29,7 @@ Completed Grade = 93.46% (Each certification had approximately 4 Modules Per Cou
 Completed Grade = 100% (Each certification had approximately 4 Modules Per Course)
 
 ### Average GPA: 94.975% 
-### Rounded Up to 95.75%
+### Rounded Up to 95.8%
 
 ### Additional Cybersecurity Certifications:
 Going to Take The SIEM Exam After Completion of Google Cybersecurity for Professionals Certification
