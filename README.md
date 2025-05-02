@@ -4,13 +4,14 @@ Additional Cybersecurity Certifications:
 
 Going to Take The SIEM Exam After Completion of Google Cybersecurity for Professionals Certification
 
-###1. Foundations of Cybersecurity Google: ###
-###Completed Grade = 89.44%### (Each certification had approximately 4 Modules Per Course)
+1. ### Foundations of Cybersecurity Google: 
+   ### Completed Grade = 89.44%
+   (Each certification had a minimum of 4 Modules Per Course)
 
-2. Play It Safe: Manage Security Risks: 
+3. Play It Safe: Manage Security Risks: 
 Completed Grade = 91.24% (Each certification had approximately 4 Modules Per Course)
 
-3. Connect and Protect: Networks and Network Security:
+4. Connect and Protect: Networks and Network Security:
    Completed Grade = 95.25% (Each certification had approximately 4 Modules Per Course)
 
 5. Tools of the Trade: Linux and SQL: 
